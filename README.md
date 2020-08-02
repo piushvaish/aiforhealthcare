@@ -32,7 +32,7 @@ Learn the fundamental skills to work with EHR data and build and evaluate compli
 
 ### Project: [Patient Selection for Diabetes Drug Testing](https://github.com/piushvaish/aiforhealthcare/tree/master/Project3)
 
-<a href="https://github.com/piushvaish/aiforhealthcare/tree/master/Project3">![project3](images/project_3.png)</a>
+<a href="https://github.com/piushvaish/aiforhealthcare/tree/master/Project3">![project3](images/project_3.PNG)</a>
 
 In this project, you are a data scientist for an exciting unicorn healthcare startup that has created a groundbreaking diabetes drug that is ready for clinical trial testing. You will work with real, de-identified EHR data to build a regression model to predict the estimated hospitalization time for a patient and select/filter patients for your study.
 
